@@ -6,7 +6,7 @@
   "scripts": {
     "ipl": "node index.js",
     "start": "http-server"
-    "build: "next build",
+    "build": "next build",
     "export": "next export",
     "deploy": "npm run build && npm run export"
   },
